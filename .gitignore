@@ -1,0 +1,56 @@
+# Binaries & Archives
+*.zip
+*.7z
+*.tar
+*.gz
+*.rar
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.pdb
+*.msi
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs & Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Data dumps & extracted strings
+*.tsv
+*.csv
+03_STRINGS/
+04_METADATA/
+SPEQTAGST_application_payload/
+SPEQTAGST_unlocked_analysis/
+rea/
+*quarantine*/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Agent & Scratch artifacts
+.system_generated/
+scratch/
+.gemini/
